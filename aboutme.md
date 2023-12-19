@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 성장을 즐기는 AI Engineer 이계인입니다.  
-Ich bin Lee Gyein, ein KI-Ingenieur, der es genießt zu wachsen.
+subtitle: 성장을 즐기는 AI Engineer 이계인입니다. Ich bin Lee Gyein, ein KI-Ingenieur, der es genießt zu wachsen.
 ---
 
 안녕하세요. 성장을 즐기는 AI Engineer 이계인입니다. 저는 다음과 같은 스킬을 가지고 있습니다.  
