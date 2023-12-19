@@ -6,17 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: 홍길동's AI Portfolio
+title: 이계인's AI Portfolio
 
 # Your name to show in the footer
-author: 홍길동
+author: 이계
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   AI Portfolio:
-    - Airbnb Amenity Detection: "2021-07-05-airbnb-clone-project-amenity-detection"
+    - Airbnb Amenity Detection: "2023-12-19-airbnb-clone-project-amenity-detection"
 
 # --- Logo --- #
 
